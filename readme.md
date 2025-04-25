@@ -1,4 +1,4 @@
-# 👕 Classificador de Animais
+# Classificador de Animais
 
 Este é um projeto simples de classificação de imagens utilizando um modelo treinado com [Teachable Machine](https://teachablemachine.withgoogle.com/) e executado com [TensorFlow.js](https://www.tensorflow.org/js).
 
