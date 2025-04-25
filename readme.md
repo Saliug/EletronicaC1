@@ -19,7 +19,7 @@ O modelo foi treinado com imagens reais de animais e exportado no formato web pa
 ## 📁 Estrutura de Pastas
 
 ```bash
-classificador-roupas/
+classificador-de-animais/
 
 ├── index.html          # Página principal da aplicação
 ├── style.css           # Estilos da aplicação
